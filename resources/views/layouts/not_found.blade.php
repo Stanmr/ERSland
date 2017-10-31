@@ -6,7 +6,7 @@
 
     <meta charset="utf-8">
 
-    <title>Login :: ERSland - @yield('title')</title>
+    <title>No encontrado :: ERSland - @yield('title')</title>
 
 
 
