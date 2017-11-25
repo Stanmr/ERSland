@@ -71,7 +71,7 @@
 
     </button>
 
-    <a class="navbar-brand" href="{{ route('home') }}"><img src="/img/logo.png" width="200"></a>
+    <a class="navbar-brand" href="{{ route('home') }}"><img src="/img/logo2.png" width="250"></a>
 
   </div>
 
